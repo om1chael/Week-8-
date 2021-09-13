@@ -1,6 +1,5 @@
 # Week--8-Ansible-IAC-Terraforming-
-<<<<<<< HEAD
-=======
+
 
 ## Topic Covered 
 - Ansible 
@@ -99,4 +98,4 @@ sudo apt-get upgrade -y
 ```
 
 ping 192.168.33.[10(app) , 11(DB)] to check that the DB and WEB is up and avaliable.
->>>>>>> f30733b... first
+
